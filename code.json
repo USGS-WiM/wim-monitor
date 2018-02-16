@@ -1,0 +1,45 @@
+[
+  {
+    "name": "wim-monitor",
+    "organization": "U.S. Geological Survey",
+    "description": "Scripts and tools for monitoring WiM services and other dependencies",
+    "version": "v0.0.0",
+    "status": "Ideation"
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain",
+          "URL": "https://github.com/usgs/wim-monitor/blob/master/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": null,
+    "downloadURL": "https://github.com/USGS-WiM/wim-monitor/archive/master.zip",
+    "disclaimerURL": "https://github.com/USGS-WiM/wim-monitor/blob/master/DISCLAIMER.md",
+    "repositoryUrl": "https://github.com/USGS-WiM/wim-monitor",
+    "vcs": "git",
+
+    "laborHours": null,
+
+    "tags": [
+      "wim",
+      "monitor"
+    ],
+
+    "languages": [
+      "Markdown"
+    ],
+
+    "contact": {
+      "name": "Blake Draper",
+      "email": "bdraper@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2018-02-16"
+    }
+  }
+]

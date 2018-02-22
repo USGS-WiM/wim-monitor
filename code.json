@@ -4,7 +4,7 @@
     "organization": "U.S. Geological Survey",
     "description": "Scripts and tools for monitoring WiM services and other dependencies",
     "version": "v0.0.0",
-    "status": "Ideation"
+    "status": "Ideation",
 
     "permissions": {
       "usageType": "openSource",
